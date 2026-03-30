@@ -1,0 +1,31 @@
+{
+  "name": "소프트 보이스 프로그램 — 모메소리",
+  "short_name": "모메소리 보이스",
+  "description": "신체와 정서를 연결하는 발성 교정 8회 프로그램",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#09090F",
+  "theme_color": "#09090F",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
